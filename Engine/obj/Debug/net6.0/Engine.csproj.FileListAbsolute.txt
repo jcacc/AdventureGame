@@ -10,3 +10,15 @@ C:\Users\Administrator\OneDrive\code ky\AdventureGame\Engine\obj\Debug\net6.0\En
 C:\Users\Administrator\OneDrive\code ky\AdventureGame\Engine\obj\Debug\net6.0\refint\Engine.dll
 C:\Users\Administrator\OneDrive\code ky\AdventureGame\Engine\obj\Debug\net6.0\Engine.pdb
 C:\Users\Administrator\OneDrive\code ky\AdventureGame\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Administrator\Source\Repos\AdventureGame\Engine\obj\Debug\net6.0\ref\Engine.dll

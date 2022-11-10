@@ -18,3 +18,23 @@ C:\Users\Administrator\OneDrive\code ky\AdventureGame\AdventureGame\obj\Debug\ne
 C:\Users\Administrator\OneDrive\code ky\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\Engine.dll
 C:\Users\Administrator\OneDrive\code ky\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\Engine.pdb
 C:\Users\Administrator\OneDrive\code ky\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AdventureGame.resources
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\refint\AdventureGame.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.pdb
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.exe
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.deps.json
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\AdventureGame.pdb
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\Engine.dll
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\bin\Debug\net6.0-windows\Engine.pdb
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\AdventureGame.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\AdventureGame\AdventureGame\obj\Debug\net6.0-windows\ref\AdventureGame.dll

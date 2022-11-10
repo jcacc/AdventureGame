@@ -99,8 +99,8 @@ namespace Engine
 
             clearFarmersField.RewardItem = ItemByID(ITEM_ID_ADVENTURER_PASS);
 
-            Quests.Add(clearAlchemistGarden);
-            Quests.Add(clearFarmersField);
+            Quest.Add(clearAlchemistGarden);
+            Quest.Add(clearFarmersField);
 
         }
         private static void PopulateLocations()
@@ -196,7 +196,7 @@ namespace Engine
 
         public static Quest QuestByID(int id)
         {
-            foreach (Quest quest in Quests)
+            foreach (Quest quest in Quest)
             {
                 if (quest.ID == id)
                 {

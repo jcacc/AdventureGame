@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj",
       "projectName": "Engine",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\AdventureGame\\AdventureGame.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\AdventureGame\\AdventureGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\AdventureGame\\AdventureGame.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\AdventureGame\\AdventureGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\AdventureGame\\AdventureGame.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\AdventureGame\\AdventureGame.csproj",
         "projectName": "AdventureGame",
-        "projectPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\AdventureGame\\AdventureGame.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\AdventureGame\\AdventureGame.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\AdventureGame\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\AdventureGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj"
+              "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\AdventureGame\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\AdventureGame\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
