@@ -1,4 +1,4 @@
-# Race to the Moon
+# Race to Mars
 **Created by Sal and Joe Accardi**
 
 Just a fun little exercise on making an RPG. My son, Sal, is providing the story. 
