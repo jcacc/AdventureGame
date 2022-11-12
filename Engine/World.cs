@@ -27,6 +27,10 @@ namespace Engine
         public const int MONSTER_ID_RAT = 1;
         public const int MONSTER_ID_SNAKE = 2;
         public const int MONSTER_ID_GIANT_SPIDER = 3;
+        public const int MONSTER_ID_SPACE_SCORPION = 4;
+        public const int MONSTER_ID_GALACTIC_GNAT = 5;
+        public const int MONSTER_ID_MOON_MOLE = 6;
+
 
         public const int QUEST_ID_CLEAR_ALCHEMIST_GARDEN = 1;
         public const int QUEST_ID_CLEAR_FARMERS_FIELD = 2;

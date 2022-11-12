@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AdventureGame",
+    "\\Engine"
   ],
-  "SelectedNode": "\\C:\\Users\\Administrator\\Source\\Repos\\AdventureGame",
+  "SelectedNode": "\\AdventureGame.sln",
   "PreviewInSolutionExplorer": false
 }
