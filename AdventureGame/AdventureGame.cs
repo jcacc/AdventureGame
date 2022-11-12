@@ -7,6 +7,7 @@ namespace AdventureGame
     public partial class AdventureGame : Form
     {
         private Player _player;
+        private Monster _currentMonster;
 
         public AdventureGame()
         {
@@ -239,7 +240,6 @@ namespace AdventureGame
 
                 //make a new monster, using the values from the standard monster in the World.Monster list
                 Monster standardMonster = World.MonsterByID(newLocation.MonsterLivingHere.ID);
-                Monster _currentMonster = null;
                 _currentMonster = new Monster(standardMonster.ID, standardMonster.Name, standardMonster.MaximumDamage, standardMonster.RewardExperiencePoints, standardMonster.RewardGold, standardMonster.CurrentHitPoints, standardMonster.MaximumHitPoints);
 
                 foreach(LootItem lootItem in standardMonster.LootTable)
@@ -254,7 +254,7 @@ namespace AdventureGame
             }
             else
             {
-                _currentMonster = null;
+                
                 cboWeapons.Visible = false;
                 cboPotions.Visible = false;
                 btnUseWeapon.Visible = false;

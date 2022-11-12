@@ -20,7 +20,7 @@ namespace Engine
 
             double asciiValueOfRandomCharacter = Convert.ToDouble(randomNumber[0]);
 
-            double multipler = Math.Max(0, asciiValueOfRandomCharacter / 255d) - 0.00000000001d);
+            double multipler = Math.Max(0, asciiValueOfRandomCharacter / 255d) - 0.00000000001d;
 
             int range = maximumValue - minimumValue + 1;
 
